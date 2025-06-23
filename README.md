@@ -199,15 +199,7 @@ This project is created for educational purposes. Feel free to use it for learni
 
 Master recursion through interactive visualization and hands-on practice.
 
-## Attribution
 
-This project includes graph visualization components adapted from [recursion-tree-visualizer](https://github.com/brpapa/recursion-tree-visualizer) by [Bruno Papa](https://github.com/brpapa).
-
-**Original Project**: 🥇 Winner of the AlgoExpert SWE Project Contest  
-**License**: MIT License  
-**Components Used**: Graph rendering and directed edge visualization  
-
-The original license is preserved in `LICENSE_graph_components.txt`.
 
 ## Installation
 
